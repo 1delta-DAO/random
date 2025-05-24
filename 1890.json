@@ -1,0 +1,34 @@
+{
+    "0x7ebef2a4b1b09381ec5b9df8c5c6f2dbeca59c73": {
+        "chainId": "1890",
+        "decimals": 18,
+        "name": "Wrapped Ether",
+        "address": "0x7ebef2a4b1b09381ec5b9df8c5c6f2dbeca59c73",
+        "symbol": "WETH",
+        "logoURI": "https://www.ape.bond/tokenImages/ETH.png"
+    },
+    "0x18fb38404dadee1727be4b805c5b242b5413fa40": {
+        "chainId": "1890",
+        "decimals": 6,
+        "name": "USD Coin",
+        "address": "0x18fb38404dadee1727be4b805c5b242b5413fa40",
+        "symbol": "USDC.e",
+        "logoURI": "https://www.ape.bond/tokenImages/USDC.png"
+    },
+    "0x6308fa9545126237158778e74ae1b6b89022c5c0": {
+        "chainId": "1890",
+        "decimals": 6,
+        "name": "Tether USD",
+        "address": "0x6308fa9545126237158778e74ae1b6b89022c5c0",
+        "symbol": "USDT.e",
+        "logoURI": "https://www.ape.bond/tokenImages/USDT.png"
+    },
+    "0xd9d7123552fa2bedb2348bb562576d67f6e8e96e": {
+        "chainId": "1890",
+        "decimals": 18,
+        "name": "LightLink",
+        "address": "0xd9d7123552fa2bedb2348bb562576d67f6e8e96e",
+        "symbol": "LL.e",
+        "logoURI": "https://www.ape.bond/tokenImages/LL.png"
+    }
+}

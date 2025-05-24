@@ -1,0 +1,122 @@
+{
+    "0xcc22f6aa610d1b2a0e89ef228079cb3e1831b1d1": {
+        "chainId": "59144",
+        "decimals": 18,
+        "name": "Linea Velocore",
+        "address": "0xcc22f6aa610d1b2a0e89ef228079cb3e1831b1d1",
+        "symbol": "LVC",
+        "logoURI": "https://www.ape.bond/tokenImages/LVC.png"
+    },
+    "0x8c56017b172226fe024dea197748fc1eaccc82b1": {
+        "chainId": "59144",
+        "decimals": 18,
+        "name": "XFIT",
+        "address": "0x8c56017b172226fe024dea197748fc1eaccc82b1",
+        "symbol": "XFIT",
+        "logoURI": "https://www.ape.bond/tokenImages/XFIT.png"
+    },
+    "0xaaaac83751090c6ea42379626435f805ddf54dc8": {
+        "chainId": "59144",
+        "decimals": 18,
+        "name": "NILE Token",
+        "address": "0xaaaac83751090c6ea42379626435f805ddf54dc8",
+        "symbol": "NILE",
+        "logoURI": "https://www.ape.bond/tokenImages/NILE.png"
+    },
+    "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af": {
+        "chainId": "59144",
+        "decimals": 18,
+        "name": "Lynex",
+        "address": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
+        "symbol": "LYNX",
+        "logoURI": "https://www.ape.bond/tokenImages/LYNX.png"
+    },
+    "0xe07c2bdbb8c787962c2c6e93c11a152110e7e4d2": {
+        "chainId": "59144",
+        "decimals": 18,
+        "name": "Linus Token",
+        "address": "0xe07c2bdbb8c787962c2c6e93c11a152110e7e4d2",
+        "symbol": "LINUS",
+        "logoURI": "https://www.ape.bond/tokenImages/LINUS.png"
+    },
+    "0xce28211ed1b2eeb0c909c83d273debe041a12ee9": {
+        "chainId": "59144",
+        "decimals": 18,
+        "name": "Dachshund Coin",
+        "address": "0xce28211ed1b2eeb0c909c83d273debe041a12ee9",
+        "symbol": "HOTDOG",
+        "logoURI": "https://www.ape.bond/tokenImages/HOTDOG.png"
+    },
+    "0x0018d96c579121a94307249d47f053e2d687b5e7": {
+        "chainId": "59144",
+        "decimals": 18,
+        "name": "Metavault Trade",
+        "address": "0x0018d96c579121a94307249d47f053e2d687b5e7",
+        "symbol": "MVX",
+        "logoURI": "https://www.ape.bond/tokenImages/MVX.png"
+    },
+    "0xacb54d07ca167934f57f829bee2cc665e1a5ebef": {
+        "chainId": "59144",
+        "decimals": 18,
+        "name": "CROAK",
+        "address": "0xacb54d07ca167934f57f829bee2cc665e1a5ebef",
+        "symbol": "CROAK",
+        "logoURI": "https://www.ape.bond/tokenImages/CROAK.png"
+    },
+    "0x81be2acb2e9291db6400f9f6a4d0f35f24de2e77": {
+        "chainId": "59144",
+        "decimals": 18,
+        "name": "Linpuss",
+        "address": "0x81be2acb2e9291db6400f9f6a4d0f35f24de2e77",
+        "symbol": "LPUSS",
+        "logoURI": "https://www.ape.bond/tokenImages/LPUSS.png"
+    },
+    "0x265b25e22bcd7f10a5bd6e6410f10537cc7567e8": {
+        "chainId": "59144",
+        "decimals": 18,
+        "name": "Matic Token",
+        "address": "0x265b25e22bcd7f10a5bd6e6410f10537cc7567e8",
+        "symbol": "MATIC",
+        "logoURI": "https://www.ape.bond/tokenImages/POL.png"
+    },
+    "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f": {
+        "chainId": "59144",
+        "decimals": 18,
+        "name": "Wrapped Ether",
+        "address": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+        "symbol": "WETH",
+        "logoURI": "https://www.ape.bond/tokenImages/ETH.png"
+    },
+    "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4": {
+        "chainId": "59144",
+        "decimals": 8,
+        "name": "Wrapped BTC",
+        "address": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
+        "symbol": "WBTC",
+        "logoURI": "https://www.ape.bond/tokenImages/BTC.png"
+    },
+    "0x176211869ca2b568f2a7d4ee941e073a821ee1ff": {
+        "chainId": "59144",
+        "decimals": 6,
+        "name": "USDC",
+        "address": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+        "symbol": "USDC",
+        "logoURI": "https://www.ape.bond/tokenImages/USDC.png"
+    },
+    "0x4af15ec2a0bd43db75dd04e62faa3b8ef36b00d5": {
+        "chainId": "59144",
+        "decimals": 18,
+        "name": "Dai Stablecoin",
+        "address": "0x4af15ec2a0bd43db75dd04e62faa3b8ef36b00d5",
+        "symbol": "DAI",
+        "logoURI": "https://www.ape.bond/tokenImages/DAI.png"
+    },
+    "0xa219439258ca9da29e9cc4ce5596924745e12b93": {
+        "chainId": "59144",
+        "decimals": 6,
+        "name": "Tether USD",
+        "address": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
+        "symbol": "USDT",
+        "logoURI": "https://www.ape.bond/tokenImages/USDT.png"
+    }
+}

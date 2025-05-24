@@ -1,0 +1,18 @@
+{
+    "0x4300000000000000000000000000000000000003": {
+        "chainId": "81457",
+        "decimals": 18,
+        "name": "USDB",
+        "address": "0x4300000000000000000000000000000000000003",
+        "symbol": "USDB",
+        "logoURI": "https://www.ape.bond/tokenImages/USDB.png"
+    },
+    "0x4300000000000000000000000000000000000004": {
+        "chainId": "81457",
+        "decimals": 18,
+        "name": "Wrapped Ether",
+        "address": "0x4300000000000000000000000000000000000004",
+        "symbol": "WETH",
+        "logoURI": "https://www.ape.bond/tokenImages/ETH.png"
+    }
+}

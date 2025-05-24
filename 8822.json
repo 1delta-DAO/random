@@ -1,0 +1,66 @@
+{
+    "0x30a1398cf11cb9e852e5d80ace7ffd5ec271169e": {
+        "chainId": "8822",
+        "decimals": 18,
+        "name": "FOMOFox",
+        "address": "0x30a1398cf11cb9e852e5d80ace7ffd5ec271169e",
+        "symbol": "FOMO",
+        "logoURI": "https://www.ape.bond/tokenImages/FOMO.png"
+    },
+    "0xf5755e48b6f2f06f8ea904bda26177cb3ca06ff0": {
+        "chainId": "8822",
+        "decimals": 18,
+        "name": "Token IOL",
+        "address": "0xf5755e48b6f2f06f8ea904bda26177cb3ca06ff0",
+        "symbol": "IOL",
+        "logoURI": "https://www.ape.bond/tokenImages/IOL.png"
+    },
+    "0x3915b5a673ee6cf126d1042f637bd10b9931ad08": {
+        "chainId": "8822",
+        "decimals": 18,
+        "name": "Rusty Robot Country Club",
+        "address": "0x3915b5a673ee6cf126d1042f637bd10b9931ad08",
+        "symbol": "RUST",
+        "logoURI": "https://www.ape.bond/tokenImages/RUST.png"
+    },
+    "0x159366809b6062960c97bc4edd548bafcd7812d8": {
+        "chainId": "8822",
+        "decimals": 18,
+        "name": "Audit",
+        "address": "0x159366809b6062960c97bc4edd548bafcd7812d8",
+        "symbol": "AUDIT",
+        "logoURI": "https://www.ape.bond/tokenImages/AUDIT.png"
+    },
+    "0x6e47f8d48a01b44df3fff35d258a10a3aedc114c": {
+        "chainId": "8822",
+        "decimals": 18,
+        "name": "wIOTA",
+        "address": "0x6e47f8d48a01b44df3fff35d258a10a3aedc114c",
+        "symbol": "wIOTA",
+        "logoURI": "https://www.ape.bond/tokenImages/IOTA.png"
+    },
+    "0x160345fc359604fc6e70e3c5facbde5f7a9342d8": {
+        "chainId": "8822",
+        "decimals": 18,
+        "name": "WETH",
+        "address": "0x160345fc359604fc6e70e3c5facbde5f7a9342d8",
+        "symbol": "WETH",
+        "logoURI": "https://www.ape.bond/tokenImages/ETH.png"
+    },
+    "0xfbda5f676cb37624f28265a144a48b0d6e87d3b6": {
+        "chainId": "8822",
+        "decimals": 6,
+        "name": "Bridged USDC (Stargate)",
+        "address": "0xfbda5f676cb37624f28265a144a48b0d6e87d3b6",
+        "symbol": "USDC.e",
+        "logoURI": "https://www.ape.bond/tokenImages/USDC.png"
+    },
+    "0xc1b8045a6ef2934cf0f78b0dbd489969fa9be7e4": {
+        "chainId": "8822",
+        "decimals": 6,
+        "name": "Tether USD",
+        "address": "0xc1b8045a6ef2934cf0f78b0dbd489969fa9be7e4",
+        "symbol": "USDT",
+        "logoURI": "https://www.ape.bond/tokenImages/USDT.png"
+    }
+}

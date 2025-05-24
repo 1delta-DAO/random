@@ -1,0 +1,170 @@
+{
+    "0xd6b3d81868770083307840f513a3491960b95cb6": {
+        "chainId": "42161",
+        "decimals": 18,
+        "name": "Credbull",
+        "address": "0xd6b3d81868770083307840f513a3491960b95cb6",
+        "symbol": "CBL",
+        "logoURI": "https://www.ape.bond/tokenImages/CBL.png"
+    },
+    "0x912ce59144191c1204e64559fe8253a0e49e6548": {
+        "chainId": "42161",
+        "decimals": 18,
+        "name": "Arbitrum",
+        "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+        "symbol": "ARB",
+        "logoURI": "https://www.ape.bond/tokenImages/ARB.png"
+    },
+    "0x82af49447d8a07e3bd95bd0d56f35241523fbab1": {
+        "chainId": "42161",
+        "decimals": 18,
+        "name": "Wrapped Ether",
+        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+        "symbol": "WETH",
+        "logoURI": "https://www.ape.bond/tokenImages/ETH.png"
+    },
+    "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f": {
+        "chainId": "42161",
+        "decimals": 8,
+        "name": "Wrapped BTC",
+        "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+        "symbol": "WBTC",
+        "logoURI": "https://www.ape.bond/tokenImages/BTC.png"
+    },
+    "0xaf88d065e77c8cc2239327c5edb3a432268e5831": {
+        "chainId": "42161",
+        "decimals": 6,
+        "name": "USD Coin",
+        "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+        "symbol": "USDC",
+        "logoURI": "https://www.ape.bond/tokenImages/USDC.png"
+    },
+    "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8": {
+        "chainId": "42161",
+        "decimals": 6,
+        "name": "USD Coin (Arb1)",
+        "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+        "symbol": "USDC",
+        "logoURI": "https://www.ape.bond/tokenImages/USDC.png"
+    },
+    "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1": {
+        "chainId": "42161",
+        "decimals": 18,
+        "name": "Dai Stablecoin",
+        "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+        "symbol": "DAI",
+        "logoURI": "https://www.ape.bond/tokenImages/DAI.png"
+    },
+    "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9": {
+        "chainId": "42161",
+        "decimals": 6,
+        "name": "USD₮0",
+        "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+        "symbol": "USD₮0",
+        "logoURI": "https://www.ape.bond/tokenImages/USDT.png"
+    },
+    "0x232baf8cfc14520140c3686fbab53fa596a50552": {
+        "chainId": "42161",
+        "decimals": 18,
+        "name": "Cruize",
+        "address": "0x232baf8cfc14520140c3686fbab53fa596a50552",
+        "symbol": "CRUIZE",
+        "logoURI": "https://www.ape.bond/tokenImages/CRUIZE.png"
+    },
+    "0xa586b3b80d7e3e8d439e25fbc16bc5bcee3e2c85": {
+        "chainId": "42161",
+        "decimals": 18,
+        "name": "Codyfight Token",
+        "address": "0xa586b3b80d7e3e8d439e25fbc16bc5bcee3e2c85",
+        "symbol": "CTOK",
+        "logoURI": "https://www.ape.bond/tokenImages/CTOK.png"
+    },
+    "0x2b41806cbf1ffb3d9e31a9ece6b738bf9d6f645f": {
+        "chainId": "42161",
+        "decimals": 18,
+        "name": "EnoToken",
+        "address": "0x2b41806cbf1ffb3d9e31a9ece6b738bf9d6f645f",
+        "symbol": "ENO",
+        "logoURI": "https://www.ape.bond/tokenImages/ENO.png"
+    },
+    "0x79ead7a012d97ed8deece279f9bc39e264d7eef9": {
+        "chainId": "42161",
+        "decimals": 18,
+        "name": "Bonsai",
+        "address": "0x79ead7a012d97ed8deece279f9bc39e264d7eef9",
+        "symbol": "Bonsai",
+        "logoURI": "https://www.ape.bond/tokenImages/BONSAI.png"
+    },
+    "0x4d22e37eb4d71d1acc5f4889a65936d2a44a2f15": {
+        "chainId": "42161",
+        "decimals": 18,
+        "name": "Hat",
+        "address": "0x4d22e37eb4d71d1acc5f4889a65936d2a44a2f15",
+        "symbol": "HAT",
+        "logoURI": "https://www.ape.bond/tokenImages/HAT.png"
+    },
+    "0xabd587f2607542723b17f14d00d99b987c29b074": {
+        "chainId": "42161",
+        "decimals": 18,
+        "name": "SmarDex Token",
+        "address": "0xabd587f2607542723b17f14d00d99b987c29b074",
+        "symbol": "SDEX",
+        "logoURI": "https://www.ape.bond/tokenImages/SDEX.png"
+    },
+    "0xb7cd6c8c4600aed9985d2c0eb174e0bee56e8854": {
+        "chainId": "42161",
+        "decimals": 18,
+        "name": "OnyxDAO Token",
+        "address": "0xb7cd6c8c4600aed9985d2c0eb174e0bee56e8854",
+        "symbol": "ONYX",
+        "logoURI": "https://www.ape.bond/tokenImages/ONYX.png"
+    },
+    "0x58cb98a966f62aa6f2190eb3aa03132a0c3de3d5": {
+        "chainId": "42161",
+        "decimals": 18,
+        "name": "OpenWorld",
+        "address": "0x58cb98a966f62aa6f2190eb3aa03132a0c3de3d5",
+        "symbol": "OPEN",
+        "logoURI": "https://www.ape.bond/tokenImages/OPEN.png"
+    },
+    "0x999faf0af2ff109938eefe6a7bf91ca56f0d07e1": {
+        "chainId": "42161",
+        "decimals": 18,
+        "name": "Ledgity Token",
+        "address": "0x999faf0af2ff109938eefe6a7bf91ca56f0d07e1",
+        "symbol": "LDY",
+        "logoURI": "https://www.ape.bond/tokenImages/LDY.png"
+    },
+    "0x07715ee7219b07b8e01cc7d2787f4e5e75860383": {
+        "chainId": "42161",
+        "decimals": 18,
+        "name": "Stake DAO Token",
+        "address": "0x07715ee7219b07b8e01cc7d2787f4e5e75860383",
+        "symbol": "SDT",
+        "logoURI": "https://www.ape.bond/tokenImages/SDT.png"
+    },
+    "0x94fcd9c18f99538c0f7c61c5500ca79f0d5c4dab": {
+        "chainId": "42161",
+        "decimals": 18,
+        "name": "KIMA",
+        "address": "0x94fcd9c18f99538c0f7c61c5500ca79f0d5c4dab",
+        "symbol": "KIMA",
+        "logoURI": "https://www.ape.bond/tokenImages/KIMA.png"
+    },
+    "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978": {
+        "chainId": "42161",
+        "decimals": 18,
+        "name": "Curve DAO Token",
+        "address": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978",
+        "symbol": "CRV",
+        "logoURI": "https://www.ape.bond/tokenImages/CRV.png"
+    },
+    "0x7a10f506e4c7658e6ad15fdf0443d450b7fa80d7": {
+        "chainId": "42161",
+        "decimals": 18,
+        "name": "EYWA",
+        "address": "0x7a10f506e4c7658e6ad15fdf0443d450b7fa80d7",
+        "symbol": "EYWA",
+        "logoURI": "https://www.ape.bond/tokenImages/EYWA.png"
+    }
+}

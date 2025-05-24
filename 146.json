@@ -1,0 +1,58 @@
+{
+    "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Wrapped Sonic",
+        "address": "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38",
+        "symbol": "wS",
+        "logoURI": "https://www.ape.bond/tokenImages/S.png"
+    },
+    "0x3333111a391cc08fa51353e9195526a70b333333": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Shadow Liquid Staking Token",
+        "address": "0x3333111a391cc08fa51353e9195526a70b333333",
+        "symbol": "x33",
+        "logoURI": "https://www.ape.bond/tokenImages/X33.png"
+    },
+    "0x777ecd9a05d4640133f6112f3aa777f1ed5acace": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "SPIN IT",
+        "address": "0x777ecd9a05d4640133f6112f3aa777f1ed5acace",
+        "symbol": "SPIN",
+        "logoURI": "https://www.ape.bond/tokenImages/SPIN.png"
+    },
+    "0x486b6fa0419b33a0c7a6e4698c231d7e2f2d5299": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Moon Bay",
+        "address": "0x486b6fa0419b33a0c7a6e4698c231d7e2f2d5299",
+        "symbol": "MOON",
+        "logoURI": "https://www.ape.bond/tokenImages/MOON.png"
+    },
+    "0x50c42deacd8fc9773493ed674b675be577f2634b": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Wrapped Ether on Sonic",
+        "address": "0x50c42deacd8fc9773493ed674b675be577f2634b",
+        "symbol": "WETH",
+        "logoURI": "https://www.ape.bond/tokenImages/ETH.png"
+    },
+    "0x29219dd400f2bf60e5a23d13be72b486d4038894": {
+        "chainId": "146",
+        "decimals": 6,
+        "name": "Bridged USDC (Sonic Labs)",
+        "address": "0x29219dd400f2bf60e5a23d13be72b486d4038894",
+        "symbol": "USDC.e",
+        "logoURI": "https://www.ape.bond/tokenImages/USDC.png"
+    },
+    "0x6047828dc181963ba44974801ff68e538da5eaf9": {
+        "chainId": "146",
+        "decimals": 6,
+        "name": "Tether USD",
+        "address": "0x6047828dc181963ba44974801ff68e538da5eaf9",
+        "symbol": "USDT",
+        "logoURI": "https://www.ape.bond/tokenImages/USDT.png"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34": {
+        "chainId": "80094",
+        "decimals": 18,
+        "name": "USDe",
+        "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+        "symbol": "USDe",
+        "logoURI": "https://www.ape.bond/tokenImages/USDE.png"
+    },
+    "0xfcbd14dc51f0a4d49d5e53c2e0950e0bc26d0dce": {
+        "chainId": "80094",
+        "decimals": 18,
+        "name": "Honey",
+        "address": "0xfcbd14dc51f0a4d49d5e53c2e0950e0bc26d0dce",
+        "symbol": "HONEY",
+        "logoURI": "https://www.ape.bond/tokenImages/HONEY.png"
+    },
+    "0x6969696969696969696969696969696969696969": {
+        "chainId": "80094",
+        "decimals": 18,
+        "name": "Wrapped Bera",
+        "address": "0x6969696969696969696969696969696969696969",
+        "symbol": "WBERA",
+        "logoURI": "https://www.ape.bond/tokenImages/WBERA.png"
+    },
+    "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590": {
+        "chainId": "80094",
+        "decimals": 18,
+        "name": "WETH",
+        "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+        "symbol": "WETH",
+        "logoURI": "https://www.ape.bond/tokenImages/ETH.png"
+    },
+    "0x549943e04f40284185054145c6e4e9568c1d3241": {
+        "chainId": "80094",
+        "decimals": 6,
+        "name": "Bridged USDC (Stargate)",
+        "address": "0x549943e04f40284185054145c6e4e9568c1d3241",
+        "symbol": "USDC.e",
+        "logoURI": "https://www.ape.bond/tokenImages/USDC.png"
+    }
+}

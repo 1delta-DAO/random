@@ -1,0 +1,330 @@
+{
+    "0xf2e244d4020c182e8e2c936d4055e3f0e578064f": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "ChirpPad",
+        "address": "0xf2e244d4020c182e8e2c936d4055e3f0e578064f",
+        "symbol": "CHPD",
+        "logoURI": "https://www.ape.bond/tokenImages/CHPD.png"
+    },
+    "0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42": {
+        "chainId": "8453",
+        "decimals": 6,
+        "name": "EURC",
+        "address": "0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42",
+        "symbol": "EURC",
+        "logoURI": "https://www.ape.bond/tokenImages/EURC.png"
+    },
+    "0x2105cca8bf6f00769a45c734c740b0c42c74c03e": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "BasePad",
+        "address": "0x2105cca8bf6f00769a45c734c740b0c42c74c03e",
+        "symbol": "BPAD",
+        "logoURI": "https://www.ape.bond/tokenImages/BPAD.png"
+    },
+    "0x1986cc18d8ec757447254310d2604f85741aa732": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "Rewardable",
+        "address": "0x1986cc18d8ec757447254310d2604f85741aa732",
+        "symbol": "REWARD",
+        "logoURI": "https://www.ape.bond/tokenImages/REWARD.png"
+    },
+    "0xac27fa800955849d6d17cc8952ba9dd6eaa66187": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "UnlockProtocolToken",
+        "address": "0xac27fa800955849d6d17cc8952ba9dd6eaa66187",
+        "symbol": "UP",
+        "logoURI": "https://www.ape.bond/tokenImages/UP.png"
+    },
+    "0x4ed4e862860bed51a9570b96d89af5e1b0efefed": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "Degen",
+        "address": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
+        "symbol": "DEGEN",
+        "logoURI": "https://www.ape.bond/tokenImages/DEGEN.png"
+    },
+    "0xfaa4f3bcfc87d791e9305951275e0f62a98bcb10": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "Super Best Friends",
+        "address": "0xfaa4f3bcfc87d791e9305951275e0f62a98bcb10",
+        "symbol": "SUBF",
+        "logoURI": "https://www.ape.bond/tokenImages/SUBF.png"
+    },
+    "0x52b492a33e447cdb854c7fc19f1e57e8bfa1777d": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "BasedPepe",
+        "address": "0x52b492a33e447cdb854c7fc19f1e57e8bfa1777d",
+        "symbol": "PEPE",
+        "logoURI": "https://www.ape.bond/tokenImages/PEPE.png"
+    },
+    "0x65e570b560027f493f2b1907e8e8e3b9546053bd": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "Tyler",
+        "address": "0x65e570b560027f493f2b1907e8e8e3b9546053bd",
+        "symbol": "TYLER",
+        "logoURI": "https://www.ape.bond/tokenImages/TYLER.png"
+    },
+    "0x85645b86243886b7c7c1da6288571f8bea6fc035": {
+        "chainId": "8453",
+        "decimals": 9,
+        "name": "Tyler",
+        "address": "0x85645b86243886b7c7c1da6288571f8bea6fc035",
+        "symbol": "TYLER",
+        "logoURI": "https://www.ape.bond/tokenImages/TYLER.png"
+    },
+    "0x63c387f45046bc3c4ad8fe12fe9cfa2a7b305385": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "OlexAI",
+        "address": "0x63c387f45046bc3c4ad8fe12fe9cfa2a7b305385",
+        "symbol": "OAI",
+        "logoURI": "https://www.ape.bond/tokenImages/OAI.png"
+    },
+    "0x9e12735d77c72c5c3670636d428f2f3815d8a4cb": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "Functionland Fula",
+        "address": "0x9e12735d77c72c5c3670636d428f2f3815d8a4cb",
+        "symbol": "FULA",
+        "logoURI": "https://www.ape.bond/tokenImages/FULA.png"
+    },
+    "0x6967f0974d76d34e140cae27efea32cdf546b58e": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "Gamertag Token",
+        "address": "0x6967f0974d76d34e140cae27efea32cdf546b58e",
+        "symbol": "GMRT",
+        "logoURI": "https://www.ape.bond/tokenImages/GMRT.png"
+    },
+    "0xc227717ef4ae4d982e14789eb33ba942243c3fee": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "Mozaic Token",
+        "address": "0xc227717ef4ae4d982e14789eb33ba942243c3fee",
+        "symbol": "MOZ",
+        "logoURI": "https://www.ape.bond/tokenImages/MOZ.png"
+    },
+    "0x18e692c03de43972fe81058f322fa542ae1a5e2c": {
+        "chainId": "8453",
+        "decimals": 9,
+        "name": "Imagine AI",
+        "address": "0x18e692c03de43972fe81058f322fa542ae1a5e2c",
+        "symbol": "imgnAI",
+        "logoURI": "https://www.ape.bond/tokenImages/imgnAI.png"
+    },
+    "0x3d63825b0d8669307366e6c8202f656b9e91d368": {
+        "chainId": "8453",
+        "decimals": 6,
+        "name": "Wild Goat Coin",
+        "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+        "symbol": "WGC",
+        "logoURI": "https://www.ape.bond/tokenImages/WGC.png"
+    },
+    "0x41a359eecffbaabe3b6a11a285ee4ae6c9e3bc99": {
+        "chainId": "8453",
+        "decimals": 8,
+        "name": "Bit Rivals AI",
+        "address": "0x41a359eecffbaabe3b6a11a285ee4ae6c9e3bc99",
+        "symbol": "RIVAL",
+        "logoURI": "https://www.ape.bond/tokenImages/RIVAL.png"
+    },
+    "0x3f8d935512f74b7c71a2c2395a06af5f87bc9276": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "Base Mafia",
+        "address": "0x3f8d935512f74b7c71a2c2395a06af5f87bc9276",
+        "symbol": "MAFIA",
+        "logoURI": "https://www.ape.bond/tokenImages/MAFIA.png"
+    },
+    "0x39b7effba5edb719e714570369961e72eb147bf1": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "BOUNDLESSPAY",
+        "address": "0x39b7effba5edb719e714570369961e72eb147bf1",
+        "symbol": "BPAY",
+        "logoURI": "https://www.ape.bond/tokenImages/BPAY.png"
+    },
+    "0x2659631cfbe9b1b6dcbc1384a3864509356e7b4d": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "RandomDEX",
+        "address": "0x2659631cfbe9b1b6dcbc1384a3864509356e7b4d",
+        "symbol": "RDX",
+        "logoURI": "https://www.ape.bond/tokenImages/RDX.png"
+    },
+    "0x78b3c724a2f663d11373c4a1978689271895256f": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "TokenDao",
+        "address": "0x78b3c724a2f663d11373c4a1978689271895256f",
+        "symbol": "TKN",
+        "logoURI": "https://www.ape.bond/tokenImages/TKN.png"
+    },
+    "0x73fbd93bfda83b111ddc092aa3a4ca77fd30d380": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "SOPH AI Token",
+        "address": "0x73fbd93bfda83b111ddc092aa3a4ca77fd30d380",
+        "symbol": "SOPH",
+        "logoURI": "https://www.ape.bond/tokenImages/SOPH.png"
+    },
+    "0x623cd3a3edf080057892aaf8d773bbb7a5c9b6e9": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "Sekuya",
+        "address": "0x623cd3a3edf080057892aaf8d773bbb7a5c9b6e9",
+        "symbol": "SKYA",
+        "logoURI": "https://www.ape.bond/tokenImages/SKYA.png"
+    },
+    "0xfcb49c1545d1d13272467f0d94e57a9aca39725c": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "GRASS",
+        "address": "0xfcb49c1545d1d13272467f0d94e57a9aca39725c",
+        "symbol": "GRASS",
+        "logoURI": "https://www.ape.bond/tokenImages/GRASS.png"
+    },
+    "0x035098c2a3bea5e03b1e08e7140a5369d47bd349": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "Sapiens AI",
+        "address": "0x035098c2a3bea5e03b1e08e7140a5369d47bd349",
+        "symbol": "SPN",
+        "logoURI": "https://www.ape.bond/tokenImages/SPN.png"
+    },
+    "0xe2c86869216ac578bd62a4b8313770d9ee359a05": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "EMAIL Token",
+        "address": "0xe2c86869216ac578bd62a4b8313770d9ee359a05",
+        "symbol": "EMT",
+        "logoURI": "https://www.ape.bond/tokenImages/EMT.png"
+    },
+    "0xed1779845520339693cdbffec49a74246e7d671b": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "SAMURAI",
+        "address": "0xed1779845520339693cdbffec49a74246e7d671b",
+        "symbol": "SAM",
+        "logoURI": "https://www.ape.bond/tokenImages/SAM.png"
+    },
+    "0xe642657e4f43e6dcf0bd73ef24008394574dee28": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "MusicProtocolRECORDToken",
+        "address": "0xe642657e4f43e6dcf0bd73ef24008394574dee28",
+        "symbol": "RECORD",
+        "logoURI": "https://www.ape.bond/tokenImages/RECORD.png"
+    },
+    "0x5783f2c3acadae1ba43b5a08383069b675e821b4": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "Dummy Token",
+        "address": "0x5783f2c3acadae1ba43b5a08383069b675e821b4",
+        "symbol": "DUM",
+        "logoURI": "https://www.ape.bond/tokenImages/DUM.png"
+    },
+    "0x2dc90fa3a0f178ba4bee16cac5d6c9a5a7b4c6cb": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "DRINK",
+        "address": "0x2dc90fa3a0f178ba4bee16cac5d6c9a5a7b4c6cb",
+        "symbol": "DRINK",
+        "logoURI": "https://www.ape.bond/tokenImages/DRINK.png"
+    },
+    "0x00096697dc24bd10423690126d91546a20ccb3f0": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "Veritas",
+        "address": "0x00096697dc24bd10423690126d91546a20ccb3f0",
+        "symbol": "VPT",
+        "logoURI": "https://www.ape.bond/tokenImages/VPT.png"
+    },
+    "0xacf80a4e55f5f28e1e7d261a221ca495db5bcbb3": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "XAVI by Virtuals",
+        "address": "0xacf80a4e55f5f28e1e7d261a221ca495db5bcbb3",
+        "symbol": "XAVI",
+        "logoURI": "https://www.ape.bond/tokenImages/XAVI.png"
+    },
+    "0x4200000000000000000000000000000000000006": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "Wrapped Ether",
+        "address": "0x4200000000000000000000000000000000000006",
+        "symbol": "WETH",
+        "logoURI": "https://www.ape.bond/tokenImages/ETH.png"
+    },
+    "0x0c41f1fc9022feb69af6dc666abfe73c9ffda7ce": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "Bitcoin on Base",
+        "address": "0x0c41f1fc9022feb69af6dc666abfe73c9ffda7ce",
+        "symbol": "BTCB",
+        "logoURI": "https://www.ape.bond/tokenImages/BTC.png"
+    },
+    "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913": {
+        "chainId": "8453",
+        "decimals": 6,
+        "name": "USD Coin",
+        "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "symbol": "USDC",
+        "logoURI": "https://www.ape.bond/tokenImages/USDC.png"
+    },
+    "0x50c5725949a6f0c72e6c4a641f24049a917db0cb": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "Dai Stablecoin",
+        "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+        "symbol": "DAI",
+        "logoURI": "https://www.ape.bond/tokenImages/DAI.png"
+    },
+    "0xfde4c96c8593536e31f229ea8f37b2ada2699bb2": {
+        "chainId": "8453",
+        "decimals": 6,
+        "name": "Tether USD",
+        "address": "0xfde4c96c8593536e31f229ea8f37b2ada2699bb2",
+        "symbol": "USDT",
+        "logoURI": "https://www.ape.bond/tokenImages/USDT.png"
+    },
+    "0x5283af37d473ef7c185a1f8a2042d427cd9c83c4": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "Metahorse Unity Token",
+        "address": "0x5283af37d473ef7c185a1f8a2042d427cd9c83c4",
+        "symbol": "MUNITY",
+        "logoURI": "https://www.ape.bond/tokenImages/MUNITY.png"
+    },
+    "0x59f680f431f5280e7662b96f2dfa195d1693852d": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "Magnify Cash",
+        "address": "0x59f680f431f5280e7662b96f2dfa195d1693852d",
+        "symbol": "MAG",
+        "logoURI": "https://www.ape.bond/tokenImages/MAG.png"
+    },
+    "0xfd4330b0312fdeec6d4225075b82e00493ff2e3f": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "SmarDex Token",
+        "address": "0xfd4330b0312fdeec6d4225075b82e00493ff2e3f",
+        "symbol": "SDEX",
+        "logoURI": "https://www.ape.bond/tokenImages/SDEX.png"
+    },
+    "0x0a953dd9fc813fefaf6015b804c9dfa0624690c0": {
+        "chainId": "8453",
+        "decimals": 18,
+        "name": "Cornucopias",
+        "address": "0x0a953dd9fc813fefaf6015b804c9dfa0624690c0",
+        "symbol": "COPI",
+        "logoURI": "https://www.ape.bond/tokenImages/COPI.png"
+    }
+}

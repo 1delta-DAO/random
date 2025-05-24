@@ -1,0 +1,306 @@
+{
+    "0x92df60c51c710a1b1c20e42d85e221f3a1bfc7f2": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "ApeSwapFinance Banana",
+        "address": "0x92df60c51c710a1b1c20e42d85e221f3a1bfc7f2",
+        "symbol": "BANANA",
+        "logoURI": "https://www.ape.bond/tokenImages/BANANA.png"
+    },
+    "0x7636d8722fdf7cd34232a915e48e96aa3eb386bf": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Singularity Finance",
+        "address": "0x7636d8722fdf7cd34232a915e48e96aa3eb386bf",
+        "symbol": "SFI",
+        "logoURI": "https://www.ape.bond/tokenImages/SFI.png"
+    },
+    "0x7d3e4165fd7d8590fb2a415a550f7bdece5c4f52": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Muhdo Hub",
+        "address": "0x7d3e4165fd7d8590fb2a415a550f7bdece5c4f52",
+        "symbol": "DNA",
+        "logoURI": "https://www.ape.bond/tokenImages/DNA.png"
+    },
+    "0xd0623da373f754c4b6762209ea77de59b21dd667": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Oxya Origin",
+        "address": "0xd0623da373f754c4b6762209ea77de59b21dd667",
+        "symbol": "OXYZ",
+        "logoURI": "https://www.ape.bond/tokenImages/OXYZ.png"
+    },
+    "0xe9aa901d12d401361951f6b143e39ce8d4d42983": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Bunny",
+        "address": "0xe9aa901d12d401361951f6b143e39ce8d4d42983",
+        "symbol": "Bunny",
+        "logoURI": "https://www.ape.bond/tokenImages/BUNNY.png"
+    },
+    "0xcf078da6e85389de507ceede0e3d217e457b9d49": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "SkaiToken",
+        "address": "0xcf078da6e85389de507ceede0e3d217e457b9d49",
+        "symbol": "SKAI",
+        "logoURI": "https://www.ape.bond/tokenImages/SKAI.png"
+    },
+    "0xb56aaac80c931161548a49181c9e000a19489c44": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "ABDS Token",
+        "address": "0xb56aaac80c931161548a49181c9e000a19489c44",
+        "symbol": "ABDS",
+        "logoURI": "https://www.ape.bond/tokenImages/ABDS.png"
+    },
+    "0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "GraphLinq",
+        "address": "0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24",
+        "symbol": "GLQ",
+        "logoURI": "https://www.ape.bond/tokenImages/WGLQ.png"
+    },
+    "0x8e729198d1c59b82bd6bba579310c40d740a11c2": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Alvara",
+        "address": "0x8e729198d1c59b82bd6bba579310c40d740a11c2",
+        "symbol": "ALVA",
+        "logoURI": "https://www.ape.bond/tokenImages/ALVA.png"
+    },
+    "0xe6828d65bf5023ae1851d90d8783cc821ba7eee1": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "ApeBond",
+        "address": "0xe6828d65bf5023ae1851d90d8783cc821ba7eee1",
+        "symbol": "ABOND",
+        "logoURI": "https://www.ape.bond/tokenImages/ABOND.png"
+    },
+    "0x1ce1b8e28e4d4c1c4da01b69f5434a9fb7be023d": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Future Vote Escrow Apebond Token",
+        "address": "0x1ce1b8e28e4d4c1c4da01b69f5434a9fb7be023d",
+        "symbol": "FveABOND",
+        "logoURI": "https://www.ape.bond/tokenImages/veABOND.png"
+    },
+    "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Wrapped Ether",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "symbol": "WETH",
+        "logoURI": "https://www.ape.bond/tokenImages/ETH.png"
+    },
+    "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
+        "chainId": "1",
+        "decimals": 6,
+        "name": "USD Coin",
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "symbol": "USDC",
+        "logoURI": "https://www.ape.bond/tokenImages/USDC.png"
+    },
+    "0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Orbs",
+        "address": "0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa",
+        "symbol": "ORBS",
+        "logoURI": "https://www.ape.bond/tokenImages/ORBS.png"
+    },
+    "0x6b175474e89094c44da98b954eedeac495271d0f": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Dai Stablecoin",
+        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "symbol": "DAI",
+        "logoURI": "https://www.ape.bond/tokenImages/DAI.png"
+    },
+    "0xdac17f958d2ee523a2206206994597c13d831ec7": {
+        "chainId": "1",
+        "decimals": 6,
+        "name": "Tether USD",
+        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "symbol": "USDT",
+        "logoURI": "https://www.ape.bond/tokenImages/USDT.png"
+    },
+    "0x70bc0dc6414eb8974bc70685f798838a87d8cce4": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Chirpley Token",
+        "address": "0x70bc0dc6414eb8974bc70685f798838a87d8cce4",
+        "symbol": "CHRP",
+        "logoURI": "https://www.ape.bond/tokenImages/CHRP.png"
+    },
+    "0xaef420fd77477d9dc8b46d704d44dd09d6c27866": {
+        "chainId": "1",
+        "decimals": 6,
+        "name": "Cogito Governance Token",
+        "address": "0xaef420fd77477d9dc8b46d704d44dd09d6c27866",
+        "symbol": "CGV",
+        "logoURI": "https://www.ape.bond/tokenImages/CGV.png"
+    },
+    "0x01824357d7d7eaf4677bc17786abd26cbdec9ad7": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Forward",
+        "address": "0x01824357d7d7eaf4677bc17786abd26cbdec9ad7",
+        "symbol": "$FORWARD",
+        "logoURI": "https://www.ape.bond/tokenImages/$FORWARD.png"
+    },
+    "0xcdb4a8742ed7d0259b51e3454c46c9d6c48d5e88": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "GPT Protocol",
+        "address": "0xcdb4a8742ed7d0259b51e3454c46c9d6c48d5e88",
+        "symbol": "GPT",
+        "logoURI": "https://www.ape.bond/tokenImages/GPT.png"
+    },
+    "0xa01199c61841fce3b3dafb83fefc1899715c8756": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Cirus",
+        "address": "0xa01199c61841fce3b3dafb83fefc1899715c8756",
+        "symbol": "CIRUS",
+        "logoURI": "https://www.ape.bond/tokenImages/CIRUS.png"
+    },
+    "0x0345173a92742e9daf55d44ac65e0d987b22379e": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "ETH Monsta",
+        "address": "0x0345173a92742e9daf55d44ac65e0d987b22379e",
+        "symbol": "METH",
+        "logoURI": "https://www.ape.bond/tokenImages/METH.png"
+    },
+    "0xe97f6dde78b11b58cb3e394f15ab592cb2acd290": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Metahorse Unity Token",
+        "address": "0xe97f6dde78b11b58cb3e394f15ab592cb2acd290",
+        "symbol": "MUNITY",
+        "logoURI": "https://www.ape.bond/tokenImages/MUNITY.png"
+    },
+    "0x74232704659ef37c08995e386a2e26cc27a8d7b1": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Strike Token",
+        "address": "0x74232704659ef37c08995e386a2e26cc27a8d7b1",
+        "symbol": "STRK",
+        "logoURI": "https://www.ape.bond/tokenImages/STRK.png"
+    },
+    "0x71da932ccda723ba3ab730c976bc66daaf9c598c": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Magnify Cash",
+        "address": "0x71da932ccda723ba3ab730c976bc66daaf9c598c",
+        "symbol": "MAG",
+        "logoURI": "https://www.ape.bond/tokenImages/MAG.png"
+    },
+    "0xf0187b76be05c1fcaa24f39c0a3aab4434099c4f": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Aether Games",
+        "address": "0xf0187b76be05c1fcaa24f39c0a3aab4434099c4f",
+        "symbol": "AEG",
+        "logoURI": "https://www.ape.bond/tokenImages/AEG.png"
+    },
+    "0x0624069497f830bea84bd7ad410b878270130035": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Airas",
+        "address": "0x0624069497f830bea84bd7ad410b878270130035",
+        "symbol": "AIRAS",
+        "logoURI": "https://www.ape.bond/tokenImages/AIRAS.png"
+    },
+    "0x23fa3aa82858e7ad1f0f04352f4bb7f5e1bbfb68": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Frictionless",
+        "address": "0x23fa3aa82858e7ad1f0f04352f4bb7f5e1bbfb68",
+        "symbol": "FRIC",
+        "logoURI": "https://www.ape.bond/tokenImages/FRIC.png"
+    },
+    "0xed9f6aa6532869576211fd6367e3c328810fbeb3": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "GPTPlus",
+        "address": "0xed9f6aa6532869576211fd6367e3c328810fbeb3",
+        "symbol": "GPTPlus",
+        "logoURI": "https://www.ape.bond/tokenImages/GPTPLUS.png"
+    },
+    "0xa23c1194d421f252b4e6d5edcc3205f7650a4ebe": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Launch Block",
+        "address": "0xa23c1194d421f252b4e6d5edcc3205f7650a4ebe",
+        "symbol": "LBP",
+        "logoURI": "https://www.ape.bond/tokenImages/LBP.png"
+    },
+    "0x8b04bf3358b88e3630aa64c1c76ff3b6c699c6a7": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "xPlanetIX",
+        "address": "0x8b04bf3358b88e3630aa64c1c76ff3b6c699c6a7",
+        "symbol": "xIXT",
+        "logoURI": "https://www.ape.bond/tokenImages/XIXT.png"
+    },
+    "0x91fbb2503ac69702061f1ac6885759fc853e6eae": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "K9 Finance DAO",
+        "address": "0x91fbb2503ac69702061f1ac6885759fc853e6eae",
+        "symbol": "KNINE",
+        "logoURI": "https://www.ape.bond/tokenImages/KNINE.png"
+    },
+    "0xee2b9b7e168b5b2d40c507b891c7cfb13a6aaf2b": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Zygo The Frog",
+        "address": "0xee2b9b7e168b5b2d40c507b891c7cfb13a6aaf2b",
+        "symbol": "ZYGO",
+        "logoURI": "https://www.ape.bond/tokenImages/ZYGO.png"
+    },
+    "0x67466be17df832165f8c80a5a120ccc652bd7e69": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Landwolf",
+        "address": "0x67466be17df832165f8c80a5a120ccc652bd7e69",
+        "symbol": "WOLF",
+        "logoURI": "https://www.ape.bond/tokenImages/WOLF.png"
+    },
+    "0xf9902edfca4f49dcaebc335c73aebd82c79c2886": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "ADO Protocol",
+        "address": "0xf9902edfca4f49dcaebc335c73aebd82c79c2886",
+        "symbol": "ADO",
+        "logoURI": "https://www.ape.bond/tokenImages/ADO.png"
+    },
+    "0x8c088775e4139af116ac1fa6f281bbf71e8c1c73": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "PUMLx",
+        "address": "0x8c088775e4139af116ac1fa6f281bbf71e8c1c73",
+        "symbol": "PUMLx",
+        "logoURI": "https://www.ape.bond/tokenImages/PUMLx.png"
+    },
+    "0x669c01caf0edcad7c2b8dc771474ad937a7ca4af": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "Wrapped Minima",
+        "address": "0x669c01caf0edcad7c2b8dc771474ad937a7ca4af",
+        "symbol": "WMINIMA",
+        "logoURI": "https://www.ape.bond/tokenImages/WMINIMA.png"
+    },
+    "0x5f64ab1544d28732f0a24f4713c2c8ec0da089f0": {
+        "chainId": "1",
+        "decimals": 18,
+        "name": "DEXTF Token",
+        "address": "0x5f64ab1544d28732f0a24f4713c2c8ec0da089f0",
+        "symbol": "DEXTF",
+        "logoURI": "https://www.ape.bond/tokenImages/DEXTF.png"
+    }
+}

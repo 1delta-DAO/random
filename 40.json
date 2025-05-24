@@ -1,0 +1,58 @@
+{
+    "0x667fd83e24ca1d935d36717d305d54fa0cac991c": {
+        "chainId": "40",
+        "decimals": 18,
+        "name": "ApeSwapFinance Banana",
+        "address": "0x667fd83e24ca1d935d36717d305d54fa0cac991c",
+        "symbol": "BANANA",
+        "logoURI": "https://www.ape.bond/tokenImages/BANANA.png"
+    },
+    "0xfa9343c3897324496a05fc75abed6bac29f8a40f": {
+        "chainId": "40",
+        "decimals": 18,
+        "name": "Ethereum",
+        "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
+        "symbol": "ETH",
+        "logoURI": "https://www.ape.bond/tokenImages/ETH.png"
+    },
+    "0xf390830df829cf22c53c8840554b98eafc5dcbc2": {
+        "chainId": "40",
+        "decimals": 8,
+        "name": "Wrapped BTC",
+        "address": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
+        "symbol": "WBTC",
+        "logoURI": "https://www.ape.bond/tokenImages/BTC.png"
+    },
+    "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b": {
+        "chainId": "40",
+        "decimals": 6,
+        "name": "USD Coin",
+        "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
+        "symbol": "USDC",
+        "logoURI": "https://www.ape.bond/tokenImages/USDC.png"
+    },
+    "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73": {
+        "chainId": "40",
+        "decimals": 6,
+        "name": "Tether USD",
+        "address": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
+        "symbol": "USDT",
+        "logoURI": "https://www.ape.bond/tokenImages/USDT.png"
+    },
+    "0xd102ce6a4db07d247fcc28f366a623df0938ca9e": {
+        "chainId": "40",
+        "decimals": 18,
+        "name": "Wrapped TLOS",
+        "address": "0xd102ce6a4db07d247fcc28f366a623df0938ca9e",
+        "symbol": "WTLOS",
+        "logoURI": "https://www.ape.bond/tokenImages/TLOS.png"
+    },
+    "0xb4b01216a5bc8f1c8a33cd990a1239030e60c905": {
+        "chainId": "40",
+        "decimals": 18,
+        "name": "Staked TLOS",
+        "address": "0xb4b01216a5bc8f1c8a33cd990a1239030e60c905",
+        "symbol": "STLOS",
+        "logoURI": "https://www.ape.bond/tokenImages/STLOS.png"
+    }
+}
