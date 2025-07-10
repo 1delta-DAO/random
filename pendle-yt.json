@@ -1,0 +1,366 @@
+{
+    "0xaffe4b1b1eebe6dd1ee31ad27c88a918825c89f8": {
+        "chainId": 5000,
+        "decimals": 18,
+        "name": "YT cmETH 18SEP2025",
+        "address": "0xaffe4b1b1eebe6dd1ee31ad27c88a918825c89f8",
+        "symbol": "YT-cmETH-18SEP2025"
+    },
+    "0x05735b65686635f5c87aa9d2dae494fb2e838f38": {
+        "chainId": 42161,
+        "decimals": 18,
+        "name": "YT Renzo ezETH 27JUN2024",
+        "address": "0x05735b65686635f5c87aa9d2dae494fb2e838f38",
+        "symbol": "YT-ezETH-27JUN2024"
+    },
+    "0x1e30afeb27c0544f335f8aa21e0a9599c273823a": {
+        "chainId": 1,
+        "decimals": 8,
+        "name": "YT Lombard LBTC 27MAR2025",
+        "address": "0x1e30afeb27c0544f335f8aa21e0a9599c273823a",
+        "symbol": "YT-LBTC-27MAR2025"
+    },
+    "0x91f4c6be78e0feefc87a9a6adc3369b895196f06": {
+        "chainId": 1,
+        "decimals": 8,
+        "name": "YT Corn SolvBTC Babylon 26DEC2024",
+        "address": "0x91f4c6be78e0feefc87a9a6adc3369b895196f06",
+        "symbol": "YT-corn-SolvBTC.BBN-26DEC2024"
+    },
+    "0x1b85471da5bd63cbe80bdfea1e45b6a0215e2a54": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Coinshift USDL 31JUL2025",
+        "address": "0x1b85471da5bd63cbe80bdfea1e45b6a0215e2a54",
+        "symbol": "YT-csUSDL-31JUL2025"
+    },
+    "0x695e502ee8e39a128fb79e8d01230d15f368ea45": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Berachain STONE 10APR2025",
+        "address": "0x695e502ee8e39a128fb79e8d01230d15f368ea45",
+        "symbol": "YT-beraSTONE-10APR2025"
+    },
+    "0x708dd9b344ddc7842f44c7b90492cf0e1e3eb868": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Ethereal eUSDE 29MAY2025",
+        "address": "0x708dd9b344ddc7842f44c7b90492cf0e1e3eb868",
+        "symbol": "YT-eUSDE-29MAY2025"
+    },
+    "0x733ee9ba88f16023146ebc965b7a1da18a322464": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Ethena USDe 31JUL2025",
+        "address": "0x733ee9ba88f16023146ebc965b7a1da18a322464",
+        "symbol": "YT-USDe-31JUL2025"
+    },
+    "0xdc3740c3c71f28285ea4ce6b74843d448a488379": {
+        "chainId": 1,
+        "decimals": 8,
+        "name": "YT SolvBTC Babylon 27MAR2025",
+        "address": "0xdc3740c3c71f28285ea4ce6b74843d448a488379",
+        "symbol": "YT-SolvBTC.BBN-27MAR2025"
+    },
+    "0x7369c35c6a93007f2bee1ca285a0cd65e582f976": {
+        "chainId": 1,
+        "decimals": 8,
+        "name": "YT SolvBTC Babylon 26JUN2025",
+        "address": "0x7369c35c6a93007f2bee1ca285a0cd65e582f976",
+        "symbol": "YT-SolvBTC.BBN-26JUN2025"
+    },
+    "0x42e2ba2bab73650442f0624297190fab219bb5d5": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Compounding Open Dollar 19JUN2025",
+        "address": "0x42e2ba2bab73650442f0624297190fab219bb5d5",
+        "symbol": "YT-cUSDO-19JUN2025"
+    },
+    "0x72d120b9c47da21ed704e843b2c970ca743db175": {
+        "chainId": 1,
+        "decimals": 8,
+        "name": "YT Corn ether.fi eBTC 27MAR2025",
+        "address": "0x72d120b9c47da21ed704e843b2c970ca743db175",
+        "symbol": "YT-corn-eBTC-27MAR2025"
+    },
+    "0x42f2d4058eb48619ac803e7ba12793b08c6338cc": {
+        "chainId": 1,
+        "decimals": 6,
+        "name": "YT Syrup USDC 28AUG2025",
+        "address": "0x42f2d4058eb48619ac803e7ba12793b08c6338cc",
+        "symbol": "YT-syrupUSDC-28AUG2025"
+    },
+    "0x1de6ff19fda7496ddc12f2161f6ad6427c52abbe": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Ethena sUSDE 29MAY2025",
+        "address": "0x1de6ff19fda7496ddc12f2161f6ad6427c52abbe",
+        "symbol": "YT-sUSDE-29MAY2025"
+    },
+    "0xb7e51d15161c49c823f3951d579ded61cd27272b": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Ethena sUSDE 31JUL2025",
+        "address": "0xb7e51d15161c49c823f3951d579ded61cd27272b",
+        "symbol": "YT-sUSDE-31JUL2025"
+    },
+    "0x6a162ea0f31dc63cd154f4fccdd43b612df731e9": {
+        "chainId": 1,
+        "decimals": 8,
+        "name": "YT ether.fi eBTC 26JUN2025",
+        "address": "0x6a162ea0f31dc63cd154f4fccdd43b612df731e9",
+        "symbol": "YT-EBTC-26JUN2025"
+    },
+    "0x46edbe69332acf86ad31a403b599a32849cf4958": {
+        "chainId": 1,
+        "decimals": 8,
+        "name": "YT Lombard LBTC 26JUN2025",
+        "address": "0x46edbe69332acf86ad31a403b599a32849cf4958",
+        "symbol": "YT-LBTC-26JUN2025"
+    },
+    "0x619817c38e064e0825703b22043eff7c512836d1": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Ethena sUSDE 27FEB2025",
+        "address": "0x619817c38e064e0825703b22043eff7c512836d1",
+        "symbol": "YT-sUSDE-27FEB2025"
+    },
+    "0x279e76fa6310976dc651c5f48ec7e768e9e2ccb4": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Ethena sUSDE 24OCT2024",
+        "address": "0x279e76fa6310976dc651c5f48ec7e768e9e2ccb4",
+        "symbol": "YT-sUSDE-24OCT2024"
+    },
+    "0xead01319c2ab0dc2c690eff5dfc5f465cd38fc87": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT USD0++ 26JUN2025",
+        "address": "0xead01319c2ab0dc2c690eff5dfc5f465cd38fc87",
+        "symbol": "YT-USD0++-26JUN2025"
+    },
+    "0x96512230bf0fa4e20cf02c3e8a7d983132cd2b9f": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Ethena sUSDE 27MAR2025",
+        "address": "0x96512230bf0fa4e20cf02c3e8a7d983132cd2b9f",
+        "symbol": "YT-sUSDE-27MAR2025"
+    },
+    "0xbe05538f48d76504953c5d1068898c6642937427": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Ethena sUSDE 26DEC2024",
+        "address": "0xbe05538f48d76504953c5d1068898c6642937427",
+        "symbol": "YT-sUSDE-26DEC2024"
+    },
+    "0x9335a7a9208cda49f287ea9af7b3d1faadfcfe80": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Kelp rsETH 26JUN2025",
+        "address": "0x9335a7a9208cda49f287ea9af7b3d1faadfcfe80",
+        "symbol": "YT-rsETH-26JUN2025"
+    },
+    "0x4f0b4e6512630480b868e62a8a1d3451b0e9192d": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT USD0++ 31OCT2024",
+        "address": "0x4f0b4e6512630480b868e62a8a1d3451b0e9192d",
+        "symbol": "YT-USD0++-31OCT2024"
+    },
+    "0x4a8036efa1307f1ca82d932c0895faa18db0c9ee": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Ethena USDe 27MAR2025",
+        "address": "0x4a8036efa1307f1ca82d932c0895faa18db0c9ee",
+        "symbol": "YT-USDe-27MAR2025"
+    },
+    "0x7749f5ed1e356edc63d469c2fcac9adeb56d1c2b": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Renzo ezETH 26DEC2024",
+        "address": "0x7749f5ed1e356edc63d469c2fcac9adeb56d1c2b",
+        "symbol": "YT-ezETH-26DEC2024"
+    },
+    "0x050960d2438d151a246625916b64626f49a1bc0a": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Reservoir Protocol RUSD 31JUL2025",
+        "address": "0x050960d2438d151a246625916b64626f49a1bc0a",
+        "symbol": "YT-RUSD-31JUL2025"
+    },
+    "0x5b9089418248033fadc4dad3f8ae9a6b558a7da2": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT USD0++ 27MAR2025",
+        "address": "0x5b9089418248033fadc4dad3f8ae9a6b558a7da2",
+        "symbol": "YT-USD0++-27MAR2025"
+    },
+    "0x0310a860cf7efe8f54ab9b4de49cd071c37fcbcb": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Kelp Gain 26JUN2025",
+        "address": "0x0310a860cf7efe8f54ab9b4de49cd071c37fcbcb",
+        "symbol": "YT-agETH-26JUN2025"
+    },
+    "0xe0e034aff49755e80b15594ce3a16d74d1a09b2f": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Wrapped stUSR 27MAR2025",
+        "address": "0xe0e034aff49755e80b15594ce3a16d74d1a09b2f",
+        "symbol": "YT-wstUSR-27MAR2025"
+    },
+    "0x06c055753e37356b463813a288b2b0931b024dd4": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Treehouse ETH 29MAY2025",
+        "address": "0x06c055753e37356b463813a288b2b0931b024dd4",
+        "symbol": "YT-tETH-29MAY2025"
+    },
+    "0x77de4be22ecc633416d79371ef8e861fb1d2cc39": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Resolv USD 29MAY2025",
+        "address": "0x77de4be22ecc633416d79371ef8e861fb1d2cc39",
+        "symbol": "YT-USR-29MAY2025"
+    },
+    "0x1e24b022329f3ca0083b12faf75d19639faebf6f": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Wrapped stUSR 25SEP2025",
+        "address": "0x1e24b022329f3ca0083b12faf75d19639faebf6f",
+        "symbol": "YT-wstUSR-25SEP2025"
+    },
+    "0x65901ac9efa7cdaf1bdb4dbce4c53b151ae8d014": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Level USD 29MAY2025",
+        "address": "0x65901ac9efa7cdaf1bdb4dbce4c53b151ae8d014",
+        "symbol": "YT-lvlUSD-29MAY2025"
+    },
+    "0x4d74ad0287f5a3a799659aad542e4d9d9f31d443": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Staked lvlUSD 29MAY2025",
+        "address": "0x4d74ad0287f5a3a799659aad542e4d9d9f31d443",
+        "symbol": "YT-slvlUSD-29MAY2025"
+    },
+    "0xff1e55f96fa77bcfb5d40f6641e0acabd47ac34f": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Staked Falcon USD 25SEP2025",
+        "address": "0xff1e55f96fa77bcfb5d40f6641e0acabd47ac34f",
+        "symbol": "YT-sUSDf-25SEP2025"
+    },
+    "0x365466ede498d32cf65d22405420a777c021180c": {
+        "chainId": 1,
+        "decimals": 6,
+        "name": "YT Midas mEDGE 31JUL2025",
+        "address": "0x365466ede498d32cf65d22405420a777c021180c",
+        "symbol": "YT-mEDGE-31JUL2025"
+    },
+    "0x946934554a2bf59039661f971986f0223e906264": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Level USD 25SEP2025",
+        "address": "0x946934554a2bf59039661f971986f0223e906264",
+        "symbol": "YT-lvlUSD-25SEP2025"
+    },
+    "0x47247749e976c54c6db2a9db68c5cadb05482e9f": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Staked lvlUSD 25SEP2025",
+        "address": "0x47247749e976c54c6db2a9db68c5cadb05482e9f",
+        "symbol": "YT-slvlUSD-25SEP2025"
+    },
+    "0xe8ef806c8aadc541408dcad36107c7d26a391712": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Ethereal eUSDE 14AUG2025",
+        "address": "0xe8ef806c8aadc541408dcad36107c7d26a391712",
+        "symbol": "YT-eUSDE-14AUG2025"
+    },
+    "0x9b7568e6f1703744705f673b6389ba49cfe3fb59": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Wrapped Savings rUSD 31JUL2025",
+        "address": "0x9b7568e6f1703744705f673b6389ba49cfe3fb59",
+        "symbol": "YT-wsrUSD-31JUL2025"
+    },
+    "0x4eb0bb058bcfeac8a2b3c2fc3cae2b8ad7ff7f6e": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT USDS Stablecoin 14AUG2025",
+        "address": "0x4eb0bb058bcfeac8a2b3c2fc3cae2b8ad7ff7f6e",
+        "symbol": "YT-USDS-14AUG2025"
+    },
+    "0x8c7352907f0a0c61771ad7f3ac2f631294182f4b": {
+        "chainId": 1,
+        "decimals": 6,
+        "name": "YT SuperUSDC 31JUL2025",
+        "address": "0x8c7352907f0a0c61771ad7f3ac2f631294182f4b",
+        "symbol": "YT-ysUSDC-31JUL2025"
+    },
+    "0x48bbbedc4d2491cc08915d7a5c7cc8a8edf165da": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Ethena USDe 25SEP2025",
+        "address": "0x48bbbedc4d2491cc08915d7a5c7cc8a8edf165da",
+        "symbol": "YT-USDe-25SEP2025"
+    },
+    "0x029d6247adb0a57138c62e3019c92d3dfc9c1840": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Ethena sUSDE 25SEP2025",
+        "address": "0x029d6247adb0a57138c62e3019c92d3dfc9c1840",
+        "symbol": "YT-sUSDE-25SEP2025"
+    },
+    "0xf2ad4ec58033be97ec3f4f61b660156fb38ecb30": {
+        "chainId": 1,
+        "decimals": 6,
+        "name": "YT Resolv Liquidity Provider Token 4SEP2025",
+        "address": "0xf2ad4ec58033be97ec3f4f61b660156fb38ecb30",
+        "symbol": "YT-RLP-4SEP2025"
+    },
+    "0x3787c19c32e727310708c0693aec00fb37a01e7b": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT f(x) USD Saving 30OCT2025",
+        "address": "0x3787c19c32e727310708c0693aec00fb37a01e7b",
+        "symbol": "YT-fxSAVE-30OCT2025"
+    },
+    "0x9ebd88a0368d53fdcad9c72c47280fecbccdcaa9": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Resolv USD 4SEP2025",
+        "address": "0x9ebd88a0368d53fdcad9c72c47280fecbccdcaa9",
+        "symbol": "YT-USR-4SEP2025"
+    },
+    "0xa3d827d2604b547d1858e3cdc11707c27930d142": {
+        "chainId": 1,
+        "decimals": 6,
+        "name": "YT AI Dollar Alpha USDT 14AUG2025",
+        "address": "0xa3d827d2604b547d1858e3cdc11707c27930d142",
+        "symbol": "YT-AIDaUSDT-14AUG2025"
+    },
+    "0xe67377eb4ffc6cdb85f421697a01ec98c0d6d5cd": {
+        "chainId": 1,
+        "decimals": 6,
+        "name": "YT Midas MEV 31JUL2025",
+        "address": "0xe67377eb4ffc6cdb85f421697a01ec98c0d6d5cd",
+        "symbol": "YT-mMEV-31JUL2025"
+    },
+    "0x3d4be24b33b56b1dc493067b65d91eb6639e1f72": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT infiniFi USD 4SEP2025",
+        "address": "0x3d4be24b33b56b1dc493067b65d91eb6639e1f72",
+        "symbol": "YT-iUSD-4SEP2025"
+    },
+    "0x349c55bad4a9f17c3381e3299e0a07d58cdd8a1d": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Compounding Open Dollar 20NOV2025",
+        "address": "0x349c55bad4a9f17c3381e3299e0a07d58cdd8a1d",
+        "symbol": "YT-cUSDO-20NOV2025"
+    }
+}
