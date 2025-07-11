@@ -54,17 +54,6 @@
             "PT:0x7c3039d2385000cf366e3ac6ab9d7642e8440dd2"
         ]
     },
-    "0x05735b65686635f5c87aa9d2dae494fb2e838f38": {
-        "chainId": 42161,
-        "decimals": 18,
-        "name": "YT Renzo ezETH 27JUN2024",
-        "address": "0x05735b65686635f5c87aa9d2dae494fb2e838f38",
-        "symbol": "YT-ezETH-27JUN2024",
-        "tags": [
-            "PENDLE-YT",
-            "PT:0x8ea5040d423410f1fdc363379af88e1db5ea1c34"
-        ]
-    },
     "0xaffe4b1b1eebe6dd1ee31ad27c88a918825c89f8": {
         "chainId": 5000,
         "decimals": 18,
@@ -74,6 +63,17 @@
         "tags": [
             "PENDLE-YT",
             "PT:0x698eb002a4ec013a33286f7f2ba0be3970e66455"
+        ]
+    },
+    "0x05735b65686635f5c87aa9d2dae494fb2e838f38": {
+        "chainId": 42161,
+        "decimals": 18,
+        "name": "YT Renzo ezETH 27JUN2024",
+        "address": "0x05735b65686635f5c87aa9d2dae494fb2e838f38",
+        "symbol": "YT-ezETH-27JUN2024",
+        "tags": [
+            "PENDLE-YT",
+            "PT:0x8ea5040d423410f1fdc363379af88e1db5ea1c34"
         ]
     },
     "0x1e30afeb27c0544f335f8aa21e0a9599c273823a": {
