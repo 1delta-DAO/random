@@ -714,6 +714,14 @@
   {
     "chainId": 1,
     "decimals": 18,
+    "name": "PT Ethena sUSDE 25SEP2025",
+    "address": "0x9f56094c450763769ba0ea9fe2876070c0fd5f77",
+    "symbol": "PT-sUSDE-25SEP2025"
+  },
+
+  {
+    "chainId": 1,
+    "decimals": 18,
     "name": "SKY Governance Token",
     "address": "0x56072c95faa701256059aa122697b133aded9279",
     "symbol": "SKY"
@@ -2057,6 +2065,14 @@
 
   {
     "chainId": 146,
+    "decimals": 6,
+    "name": "HLP0",
+    "address": "0x3d75f2bb8abcdbd1e27443cb5cbce8a668046c81",
+    "symbol": "HLP0"
+  },
+
+  {
+    "chainId": 146,
     "decimals": 18,
     "name": "Chips USD",
     "address": "0x0525cb0064efff807fd0cd231544b9208fc215a9",
@@ -2560,6 +2576,110 @@
   },
 
   {
+    "chainId": 999,
+    "decimals": 18,
+    "name": "Wrapped HYPE",
+    "address": "0x5555555555555555555555555555555555555555",
+    "symbol": "WHYPE"
+  },
+
+  {
+    "chainId": 999,
+    "decimals": 18,
+    "name": "Staked HYPE Shares",
+    "address": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "symbol": "wstHYPE"
+  },
+
+  {
+    "chainId": 999,
+    "decimals": 18,
+    "name": "feUSD",
+    "address": "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70",
+    "symbol": "feUSD"
+  },
+
+  {
+    "chainId": 999,
+    "decimals": 18,
+    "name": "Last USD",
+    "address": "0xca79db4b49f608ef54a5cb813fbed3a6387bc645",
+    "symbol": "USDXL"
+  },
+
+  {
+    "chainId": 999,
+    "decimals": 18,
+    "name": "Unit Ethereum",
+    "address": "0xbe6727b535545c67d5caa73dea54865b92cf7907",
+    "symbol": "UETH"
+  },
+
+  {
+    "chainId": 999,
+    "decimals": 18,
+    "name": "Purr",
+    "address": "0x9b498c3c8a0b8cd8ba1d9851d40d186f1872b44e",
+    "symbol": "PURR"
+  },
+
+  {
+    "chainId": 999,
+    "decimals": 8,
+    "name": "Unit Bitcoin",
+    "address": "0x9fdbda0a5e284c32744d2f17ee5c74b284993463",
+    "symbol": "UBTC"
+  },
+
+  {
+    "chainId": 999,
+    "decimals": 18,
+    "name": "USDeOFT",
+    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "symbol": "USDe"
+  },
+
+  {
+    "chainId": 999,
+    "decimals": 6,
+    "name": "USD₮0",
+    "address": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "symbol": "USD₮0"
+  },
+
+  {
+    "chainId": 999,
+    "decimals": 6,
+    "name": "Hyper USD",
+    "address": "0xb50a96253abdf803d85efcdce07ad8becbc52bd5",
+    "symbol": "USDHL"
+  },
+
+  {
+    "chainId": 999,
+    "decimals": 9,
+    "name": "Unit Solana",
+    "address": "0x068f321fa8fb9f0d135f290ef6a3e2813e1c8a29",
+    "symbol": "USOL"
+  },
+
+  {
+    "chainId": 999,
+    "decimals": 18,
+    "name": "Kinetiq Staked HYPE",
+    "address": "0xfd739d4e423301ce9385c1fb8850539d657c296d",
+    "symbol": "kHYPE"
+  },
+
+  {
+    "chainId": 999,
+    "decimals": 18,
+    "name": "Staked USDe",
+    "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+    "symbol": "sUSDe"
+  },
+
+  {
     "chainId": 1088,
     "decimals": 6,
     "name": "USDC Token",
@@ -2754,9 +2874,9 @@
   {
     "chainId": 1329,
     "decimals": 6,
-    "name": "USDC",
+    "name": "Noble USDC",
     "address": "0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
-    "symbol": "USDC"
+    "symbol": "USDC.n"
   },
 
   {
@@ -2877,6 +2997,14 @@
     "name": "SolvBTC Jupiter",
     "address": "0xaffeb8576b927050f5a3b6fba43f360d2883a118",
     "symbol": "SolvBTC.JUP"
+  },
+
+  {
+    "chainId": 1868,
+    "decimals": 6,
+    "name": "sSuperUSD boring vault",
+    "address": "0x139450c2dcef827c9a2a0bb1cb5506260940c9fd",
+    "symbol": "sSuperUSD"
   },
 
   {
