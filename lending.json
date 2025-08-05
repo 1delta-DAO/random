@@ -722,6 +722,14 @@
   {
     "chainId": 1,
     "decimals": 18,
+    "name": "PT Ethena USDe 25SEP2025",
+    "address": "0xbc6736d346a5ebc0debc997397912cd9b8fae10a",
+    "symbol": "PT-USDe-25SEP2025"
+  },
+
+  {
+    "chainId": 1,
+    "decimals": 18,
     "name": "SKY Governance Token",
     "address": "0x56072c95faa701256059aa122697b133aded9279",
     "symbol": "SKY"
@@ -1744,6 +1752,22 @@
   },
 
   {
+    "chainId": 130,
+    "decimals": 18,
+    "name": "Renzo Restaked ETH",
+    "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+    "symbol": "ezETH"
+  },
+
+  {
+    "chainId": 130,
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
+    "symbol": "WBTC"
+  },
+
+  {
     "chainId": 137,
     "decimals": 6,
     "name": "USD Coin (PoS)",
@@ -2576,6 +2600,102 @@
   },
 
   {
+    "chainId": 369,
+    "decimals": 18,
+    "name": "Wrapped Pulse",
+    "address": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "symbol": "WPLS"
+  },
+
+  {
+    "chainId": 369,
+    "decimals": 8,
+    "name": "HEX",
+    "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+    "symbol": "HEX"
+  },
+
+  {
+    "chainId": 369,
+    "decimals": 18,
+    "name": "PulseX",
+    "address": "0x95b303987a60c71504d99aa1b13b4da07b0790ab",
+    "symbol": "PLSX"
+  },
+
+  {
+    "chainId": 369,
+    "decimals": 6,
+    "name": "USD Coin from Ethereum",
+    "address": "0x15d38573d2feeb82e7ad5187ab8c1d52810b1f07",
+    "symbol": "USDC"
+  },
+
+  {
+    "chainId": 369,
+    "decimals": 18,
+    "name": "Wrapped Ether from Ethereum",
+    "address": "0x02dcdd04e3f455d838cd1249292c58f3b79e3c3c",
+    "symbol": "WETH"
+  },
+
+  {
+    "chainId": 369,
+    "decimals": 8,
+    "name": "Wrapped BTC from Ethereum",
+    "address": "0xb17d901469b9208b17d916112988a3fed19b5ca1",
+    "symbol": "WBTC"
+  },
+
+  {
+    "chainId": 369,
+    "decimals": 18,
+    "name": "Dai Stablecoin from Ethereum",
+    "address": "0xefd766ccb38eaf1dfd701853bfce31359239f305",
+    "symbol": "DAI"
+  },
+
+  {
+    "chainId": 369,
+    "decimals": 6,
+    "name": "Tether USD from Ethereum",
+    "address": "0x0cb6f5a34ad42ec934882a05265a7d5f59b51a2f",
+    "symbol": "USDT"
+  },
+
+  {
+    "chainId": 369,
+    "decimals": 18,
+    "name": "Incentive",
+    "address": "0x2fa878ab3f87cc1c9737fc071108f904c0b0c95d",
+    "symbol": "INC"
+  },
+
+  {
+    "chainId": 369,
+    "decimals": 18,
+    "name": "USDL Stablecoin",
+    "address": "0x0deed1486bc52aa0d3e6f8849cec5add6598a162",
+    "symbol": "USDL"
+  },
+
+  {
+    "chainId": 369,
+    "decimals": 8,
+    "name": "HEXDC Stablecoin",
+    "address": "0x1fe0319440a672526916c232eaee4808254bdb00",
+    "symbol": "HEXDC"
+  },
+
+  {
+    "chainId": 369,
+    "decimals": 18,
+    "name": "PXDC Stablecoin",
+    "address": "0xeb6b7932da20c6d7b3a899d5887d86dfb09a6408",
+    "symbol": "PXDC"
+  },
+
+  {
     "chainId": 999,
     "decimals": 18,
     "name": "Wrapped HYPE",
@@ -2677,6 +2797,22 @@
     "name": "Staked USDe",
     "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
     "symbol": "sUSDe"
+  },
+
+  {
+    "chainId": 999,
+    "decimals": 18,
+    "name": "Resolv USD",
+    "address": "0x0ad339d66bf4aed5ce31c64bc37b3244b6394a77",
+    "symbol": "USR"
+  },
+
+  {
+    "chainId": 999,
+    "decimals": 18,
+    "name": "PT Kinetiq Staked HYPE 13NOV2025",
+    "address": "0x311db0fde558689550c68355783c95efdfe25329",
+    "symbol": "PT-kHYPE-13NOV2025"
   },
 
   {
@@ -3010,14 +3146,6 @@
   {
     "chainId": 2020,
     "decimals": 18,
-    "name": "Ronin Wrapped Ether",
-    "address": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
-    "symbol": "WETH"
-  },
-
-  {
-    "chainId": 2020,
-    "decimals": 18,
     "name": "Wrapped Ronin",
     "address": "0xe514d9deb7966c8be0ca922de8a064264ea6bcd4",
     "symbol": "WRON"
@@ -3037,6 +3165,14 @@
     "name": "Axie Infinity Shard",
     "address": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
     "symbol": "AXS"
+  },
+
+  {
+    "chainId": 2020,
+    "decimals": 18,
+    "name": "Ronin Wrapped Ether",
+    "address": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
+    "symbol": "WETH"
   },
 
   {
@@ -5053,6 +5189,14 @@
     "name": "Merlin BTC",
     "address": "0xe4d584ae9b753e549cae66200a6475d2f00705f7",
     "symbol": "M-BTC"
+  },
+
+  {
+    "chainId": 59144,
+    "decimals": 18,
+    "name": "Binance USD",
+    "address": "0x7d43aabc515c356145049227cee54b608342c0ad",
+    "symbol": "BUSD"
   },
 
   {
