@@ -514,9 +514,17 @@
   {
     "chainId": 1,
     "decimals": 18,
-    "name": "Gnosis Token",
-    "address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
-    "symbol": "GNO"
+    "name": "ChainLink Token",
+    "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+    "symbol": "LINK"
+  },
+
+  {
+    "chainId": 1,
+    "decimals": 18,
+    "name": "Uniswap",
+    "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "symbol": "UNI"
   },
 
   {
@@ -530,17 +538,17 @@
   {
     "chainId": 1,
     "decimals": 18,
-    "name": "Treehouse ETH",
-    "address": "0xd11c452fc99cf405034ee446803b6f6c1f6d5ed8",
-    "symbol": "tETH"
+    "name": "Gnosis Token",
+    "address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+    "symbol": "GNO"
   },
 
   {
     "chainId": 1,
     "decimals": 18,
-    "name": "ChainLink Token",
-    "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
-    "symbol": "LINK"
+    "name": "Treehouse ETH",
+    "address": "0xd11c452fc99cf405034ee446803b6f6c1f6d5ed8",
+    "symbol": "tETH"
   },
 
   {
@@ -565,14 +573,6 @@
     "name": "Synthetix Network Token",
     "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
     "symbol": "SNX"
-  },
-
-  {
-    "chainId": 1,
-    "decimals": 18,
-    "name": "Uniswap",
-    "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
-    "symbol": "UNI"
   },
 
   {
@@ -746,6 +746,14 @@
   {
     "chainId": 1,
     "decimals": 18,
+    "name": "Staked deUSD",
+    "address": "0x5c5b196abe0d54485975d1ec29617d42d9198326",
+    "symbol": "sdeUSD"
+  },
+
+  {
+    "chainId": 1,
+    "decimals": 18,
     "name": "Compound",
     "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
     "symbol": "COMP"
@@ -765,14 +773,6 @@
     "name": "mETH",
     "address": "0xd5f7838f5c461feff7fe49ea5ebaf7728bb0adfa",
     "symbol": "mETH"
-  },
-
-  {
-    "chainId": 1,
-    "decimals": 18,
-    "name": "Staked deUSD",
-    "address": "0x5c5b196abe0d54485975d1ec29617d42d9198326",
-    "symbol": "sdeUSD"
   },
 
   {
@@ -1693,6 +1693,14 @@
     "name": "Bridged USDC (Gnosis)",
     "address": "0x2a22f9c3b484c3629090feed35f17ff8f88f76f0",
     "symbol": "USDC.e"
+  },
+
+  {
+    "chainId": 100,
+    "decimals": 18,
+    "name": "Gho Token",
+    "address": "0xfc421ad3c883bf9e7c4f42de845c4e4405799e73",
+    "symbol": "GHO"
   },
 
   {
@@ -2793,6 +2801,22 @@
 
   {
     "chainId": 999,
+    "decimals": 6,
+    "name": "XAUt0",
+    "address": "0xf4d9235269a96aadafc9adae454a0618ebe37949",
+    "symbol": "XAUt0"
+  },
+
+  {
+    "chainId": 999,
+    "decimals": 6,
+    "name": "thBILL",
+    "address": "0xfdd22ce6d1f66bc0ec89b20bf16ccb6670f55a5a",
+    "symbol": "thBILL"
+  },
+
+  {
+    "chainId": 999,
     "decimals": 18,
     "name": "Staked USDe",
     "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
@@ -2813,6 +2837,14 @@
     "name": "PT Kinetiq Staked HYPE 13NOV2025",
     "address": "0x311db0fde558689550c68355783c95efdfe25329",
     "symbol": "PT-kHYPE-13NOV2025"
+  },
+
+  {
+    "chainId": 999,
+    "decimals": 18,
+    "name": "PT Ethena sUSDE 25SEP2025",
+    "address": "0xb7379d395f3c83952ad794896205f7e33e358735",
+    "symbol": "PT-sUSDE-25SEP2025"
   },
 
   {
