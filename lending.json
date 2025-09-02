@@ -960,6 +960,46 @@
   },
 
   {
+    "chainId": 50,
+    "decimals": 18,
+    "name": "FXD",
+    "address": "0x49d3f7543335cf38fa10889ccff10207e22110b5",
+    "symbol": "FXD"
+  },
+
+  {
+    "chainId": 50,
+    "decimals": 18,
+    "name": "Wrapped XDC",
+    "address": "0x951857744785e80e2de051c32ee7b25f9c458c42",
+    "symbol": "WXDC"
+  },
+
+  {
+    "chainId": 50,
+    "decimals": 6,
+    "name": "USDT@xinfin",
+    "address": "0xd4b5f10d61916bd6e0860144a91ac658de8a1437",
+    "symbol": "xUSDT"
+  },
+
+  {
+    "chainId": 50,
+    "decimals": 18,
+    "name": "Comtech Gold",
+    "address": "0x8f9920283470f52128bf11b0c14e798be704fd15",
+    "symbol": "CGO"
+  },
+
+  {
+    "chainId": 50,
+    "decimals": 18,
+    "name": "Fathom Protocol Token",
+    "address": "0x3279dbefabf3c6ac29d7ff24a6c46645f3f4403c",
+    "symbol": "FTHM"
+  },
+
+  {
     "chainId": 56,
     "decimals": 18,
     "name": "USD Coin",
@@ -1802,9 +1842,9 @@
   {
     "chainId": 137,
     "decimals": 6,
-    "name": "(PoS) Tether USD",
+    "name": "USDT0",
     "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
-    "symbol": "USDT"
+    "symbol": "USDT0"
   },
 
   {
@@ -3176,6 +3216,14 @@
   },
 
   {
+    "chainId": 1868,
+    "decimals": 18,
+    "name": "Wrapped Staked USR",
+    "address": "0x2a52b289ba68bbd02676640aa9f605700c9e5699",
+    "symbol": "wstUSR"
+  },
+
+  {
     "chainId": 2020,
     "decimals": 18,
     "name": "Wrapped Ronin",
@@ -4097,6 +4145,22 @@
 
   {
     "chainId": 8453,
+    "decimals": 18,
+    "name": "yoVaultETH",
+    "address": "0x3a43aec53490cb9fa922847385d82fe25d0e9de7",
+    "symbol": "yoETH"
+  },
+
+  {
+    "chainId": 8453,
+    "decimals": 6,
+    "name": "yoVaultUSD",
+    "address": "0x0000000f2eb9f69274678c76222b35eec7588a65",
+    "symbol": "yoUSD"
+  },
+
+  {
+    "chainId": 8453,
     "decimals": 6,
     "name": "USD Base Coin",
     "address": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca",
@@ -4533,6 +4597,14 @@
     "name": "KelpDao Restaked ETH",
     "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
     "symbol": "rsETH"
+  },
+
+  {
+    "chainId": 42161,
+    "decimals": 18,
+    "name": "Arbitrum tBTC v2",
+    "address": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
+    "symbol": "tBTC"
   },
 
   {
@@ -5392,6 +5464,14 @@
   },
 
   {
+    "chainId": 60808,
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "symbol": "WBTC"
+  },
+
+  {
     "chainId": 80094,
     "decimals": 8,
     "name": "ether.fi BTC",
@@ -6133,5 +6213,12 @@
     "name": "Wrapped ONE",
     "address": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
     "symbol": "WONE"
+  },
+  {
+    "chainId": 999,
+    "decimals": 18,
+    "name": "PT Kinetiq Staked HYPE 13NOV2025",
+    "address": "0x311db0fde558689550c68355783c95efdfe25329",
+    "symbol": "PT-kHYPE-13NOV2025"
   }
 ]
