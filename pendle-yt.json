@@ -1,4 +1,26 @@
 {
+    "0xaffe4b1b1eebe6dd1ee31ad27c88a918825c89f8": {
+        "chainId": 5000,
+        "decimals": 18,
+        "name": "YT cmETH 18SEP2025",
+        "address": "0xaffe4b1b1eebe6dd1ee31ad27c88a918825c89f8",
+        "symbol": "YT-cmETH-18SEP2025",
+        "tags": [
+            "PENDLE-YT",
+            "PT:0x698eb002a4ec013a33286f7f2ba0be3970e66455"
+        ]
+    },
+    "0xdcad0f3992a72ea0ce5eb703293a353249c0a76f": {
+        "chainId": 146,
+        "decimals": 6,
+        "name": "YT Wrapped stkscUSD 29MAY2025",
+        "address": "0xdcad0f3992a72ea0ce5eb703293a353249c0a76f",
+        "symbol": "YT-wstkscUSD-29MAY2025",
+        "tags": [
+            "PENDLE-YT",
+            "PT:0xbe27993204ec64238f71a527b4c4d5f4949034c3"
+        ]
+    },
     "0xf9da8f69d518d7f6488179014f475e843ee2defd": {
         "chainId": 8453,
         "decimals": 18,
@@ -52,17 +74,6 @@
         "tags": [
             "PENDLE-YT",
             "PT:0x7c3039d2385000cf366e3ac6ab9d7642e8440dd2"
-        ]
-    },
-    "0xaffe4b1b1eebe6dd1ee31ad27c88a918825c89f8": {
-        "chainId": 5000,
-        "decimals": 18,
-        "name": "YT cmETH 18SEP2025",
-        "address": "0xaffe4b1b1eebe6dd1ee31ad27c88a918825c89f8",
-        "symbol": "YT-cmETH-18SEP2025",
-        "tags": [
-            "PENDLE-YT",
-            "PT:0x698eb002a4ec013a33286f7f2ba0be3970e66455"
         ]
     },
     "0x05735b65686635f5c87aa9d2dae494fb2e838f38": {
@@ -624,6 +635,50 @@
         "tags": [
             "PENDLE-YT",
             "PT:0xb10da2f9147f9cf2b8826877cd0c95c18a0f42dc"
+        ]
+    },
+    "0x129e6b5dbc0ecc12f9e486c5bc9cdf1a6a80bc6a": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT ether.fi weETH 26DEC2024",
+        "address": "0x129e6b5dbc0ecc12f9e486c5bc9cdf1a6a80bc6a",
+        "symbol": "YT-weETH-26DEC2024",
+        "tags": [
+            "PENDLE-YT",
+            "PT:0x6ee2b5e19ecba773a352e5b21415dc419a700d1d"
+        ]
+    },
+    "0xeb993b610b68f2631f70ca1cf4fe651db81f368e": {
+        "chainId": 1,
+        "decimals": 8,
+        "name": "YT ether.fi eBTC 26DEC2024",
+        "address": "0xeb993b610b68f2631f70ca1cf4fe651db81f368e",
+        "symbol": "YT-EBTC-26DEC2024",
+        "tags": [
+            "PENDLE-YT",
+            "PT:0xb997b3418935a1df0f914ee901ec83927c1509a0"
+        ]
+    },
+    "0x1cae47aa3e10a77c55ee32f8623d6b5acc947344": {
+        "chainId": 1,
+        "decimals": 8,
+        "name": "YT Corn Lombard LBTC 26DEC2024",
+        "address": "0x1cae47aa3e10a77c55ee32f8623d6b5acc947344",
+        "symbol": "YT-cornLBTC-26DEC2024",
+        "tags": [
+            "PENDLE-YT",
+            "PT:0x332a8ee60edff0a11cf3994b1b846bbc27d3dcd6"
+        ]
+    },
+    "0xe653e4048620e546afff02d3689678896d22e236": {
+        "chainId": 1,
+        "decimals": 18,
+        "name": "YT Kelp rsETH 26SEP2024",
+        "address": "0xe653e4048620e546afff02d3689678896d22e236",
+        "symbol": "YT-rsETH-26SEP2024",
+        "tags": [
+            "PENDLE-YT",
+            "PT:0x7baf258049cc8b9a78097723dc19a8b103d4098f"
         ]
     }
 }
